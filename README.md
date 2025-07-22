@@ -13,7 +13,7 @@ Meet our team behind the analysis:
 | Name | Role | GitHub | LinkedIn |
 | --- | --- | --- | --- |
 | Annelize Krause | Project Co-ordinator & SQL | [krauseannelize](https://github.com/krauseannelize) | [annelizekrause](https://www.linkedin.com/in/annelizekrause/) |
-| Reha Rabi Binti Mat | Spreadsheets | []() | []() |
+| Reha Rabi Binti Mat | Spreadsheets | [reharabi](https://github.com/reharabi) | []() |
 | Atukunda Shakirah | Tableau & Report | []() | []() |
 | Sajjad Mirzapour | Tableau & Report | []() | [sajjad-mirzapour](https://www.linkedin.com/in/sajjad-mirzapour-1b8476295/) |
 
