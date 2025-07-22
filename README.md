@@ -19,7 +19,6 @@ Meet our team behind the analysis:
 
 ## Quick Access
 
-- [PostgreSQL dataset](postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn?sslmode=require)
 - [Raw Data Extract](/unicorn-dataset.csv)
 - [Metadata](/unicorn-metadata.md)
 
@@ -37,6 +36,8 @@ This group project forms part of the Masterschool Data programme to combine what
 Unicorn is a family business and is owned by 2 stakeholders who are very invested in their business. They already have a small data analytics team but want to expand it significantly over the next few months. As part of the interview process for a new DA postion, they provide a sample dataset from their sales data. The interview task is to analyze the data, find interesting insights, and identify weak areas and opportunities for Unicorn to boost its business growth.
 
 ## Unicorn's Database
+
+URL to PostgreSQL dataset: `postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn?sslmode=require`
 
 Below is a schema of Unicorn's database:
 
