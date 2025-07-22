@@ -1,5 +1,19 @@
 # Unicorn Performance Analysis
 
+## Table of Contents
+
+- [Tools & Skills Used](#tools--skills-used)
+- [Collaborators](#collaborators)
+- [Quick Access](#quick-access)
+- [Project Overview](#project-overview)
+- [Project Deliverables](#project-deliverables)
+- [About Unicorn Company](#about-unicorn-company)
+- [Unicorn's Database](#unicorns-database)
+- [Data Exploration using SQL](#data-exploration-using-sql)
+- [Data Cleaning using Spreadsheets](#data-cleaning-using-spreadsheets)
+- [Getting Insights using Tableau](#getting-insights-using-tableau)
+- [Executive summary and presentation](#executive-summary-and-presentation)
+
 ## Tools & Skills Used
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Exploration-%233298DA)
@@ -17,23 +31,44 @@ Meet our team behind the analysis:
 | Atukunda Shakirah | Tableau & Report | []() | []() |
 | Sajjad Mirzapour | Tableau & Report | []() | [sajjad-mirzapour](https://www.linkedin.com/in/sajjad-mirzapour-1b8476295/) |
 
+[Back to Top](#table-of-contents)
+
 ## Quick Access
 
 - [Raw Data Extract](/unicorn-dataset.csv)
 - [Metadata](/unicorn-metadata.md)
 
+[Back to Top](#table-of-contents)
+
 ## Project Overview
 
 This group project forms part of the Masterschool Data programme to combine what we have learned on SQL, Spreadsheets, and Tableau. We will exlore the sales performance of Unicorn Company, an e-commerce business offering a wide range of products, for the years 2015 to 2018 to identify performance trends, weaknesses, and growth opportunities. The project consist of 4 main parts:
 
-- Data Exploration by SQL
+- Data Exploration using SQL
 - Data Cleaning using Spreadsheets
 - Getting Insights using Tableau
 - Executive summary and presentation
 
+[Back to Top](#table-of-contents)
+
+## Project Deliverables
+
+These deliverables, submitted to Masterschool as part of our final project using public links, showcase our technical methods, strategic insights, and the collaborative effort behind our work:
+
+- SQL document containing the SQL queries used to answer the questions in the [Data Exploration using SQL](#data-exploration-using-sql) section of the project.
+- The Spreadsheet used to clean and analyze the data to answer the questions in the [Data Cleaning using Spreadsheets](#data-cleaning-using-spreadsheets) section.
+- Tableau Public dashboard communicating our insights.
+- One-page PDF report with an executive summary containing our main insights and recommendations.
+- Video recording (up to 5 minutes) of the team sharing their insights and explaining the process followed.
+- Presentation in PDF format if a slide deck was used in our video presentation.
+
+[Back to Top](#table-of-contents)
+
 ## About Unicorn Company
 
 Unicorn is a family business and is owned by 2 stakeholders who are very invested in their business. They already have a small data analytics team but want to expand it significantly over the next few months. As part of the interview process for a new DA postion, they provide a sample dataset from their sales data. The interview task is to analyze the data, find interesting insights, and identify weak areas and opportunities for Unicorn to boost its business growth.
+
+[Back to Top](#table-of-contents)
 
 ## Unicorn's Database
 
@@ -45,7 +80,9 @@ Below is a schema of Unicorn's database:
 
 For a more details description of the database, consult the [metadata sheet](/unicorn-metadata.md).
 
-## Data Exploration by SQL
+[Back to Top](#table-of-contents)
+
+## Data Exploration using SQL
 
 In the first part of the project, we dive deeper into our unguided data research by answering questions utilizing SQL queries.
 
@@ -68,6 +105,8 @@ In the first part of the project, we dive deeper into our unguided data research
 ### :star: Bonus question
 
 Join all database tables into one dataset that includes all unique columns and download it as a .csv file.
+
+[Back to Top](#table-of-contents)
 
 ## Data Cleaning using Spreadsheets
 
@@ -147,4 +186,25 @@ Note: the months should be placed in the correct order!
 
 ## Getting Insights using Tableau
 
+This part of the project is open-ended and the goal is to communicate our insights clearly to Unicorn's executive team by using Tableau. Suggestions for questions to consider for the dashboard are:
+
+1. What is the most profitable city in the State of Tennessee?
+2. What is the average annual profit for that city across all years in that city?
+3. What is the most profitable product category on average in Iowa across all years?
+4. What is the most popular product in that category across all states in 2016?
+5. What was the most profitable month in 2018 overall?
+6. How widely did monthly profits vary in 2018?
+
+[Back to Top](#table-of-contents)
+
 ## Executive summary and presentation
+
+We receive some guidelines regarding the content of the executive summary and presentation:
+
+1. Choose the narrative for your presentation. Remember that you are a candidate for a DA position at Unicorn company. You might present the results of your analysis to the company CEO, DA team lead, Platform growth team or a potential Unicorn investor. The nature of the presentation is a bit different for each of those stakeholders. Choose one of the above stakeholders and build your narrative accordingly.
+2. You have a limited time to present your results (up to 5 minutes). You don’t have to dive into technical details too much. Tell the story with your data insights. You can assume some facts that were not mentioned in the project description. Just make sure to clearly state your assumptions.
+3. State clearly your approach to the data. What data cleaning steps were done? Did you find any irregularities in the dataset?
+4. After you present the results of exploratory data analysis and interesting insights, spend some time presenting your recommendations. It depends on what role you choose for the presentation audience, as mentioned above. Recommendations can touch the growth potential of the business in specific geographical areas or products, discount policy, additional data to be collected etc.
+5. Optional: you may want to share what challenges you faced while working with this data and the ways you managed to overcome these challenges.
+
+[Back to Top](#table-of-contents)
