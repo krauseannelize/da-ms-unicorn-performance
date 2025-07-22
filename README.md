@@ -71,7 +71,9 @@ Join all database tables into one dataset that includes all unique columns and d
 
 ## Data Cleaning using Spreadsheets
 
-In the second part of the project, we will use spreadsheets to answer some questions as part of the deep dive. For this purpose, we are provided with an [extract of the dataset in csv format](/unicorn-dataset.csv). Important differences between the Unicorn Database and this extract:
+In the second part of the project, we will use spreadsheets to answer some questions as part of the deep dive. For this purpose, we are provided with an [extract of the dataset in csv format](/unicorn-dataset.csv).
+
+### Important differences between Unicorn Database and extract
 
 - The following columns were omitted from the extract:
   - `customer_id`: As the names of all customers are included, the id was deemed redundant.
