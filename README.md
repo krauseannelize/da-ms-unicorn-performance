@@ -16,9 +16,12 @@
 
 ## Tools & Skills Used
 
+![Collaboration](https://img.shields.io/badge/Collaboration-Group%20Project-%23e91e63)
+![Collaboration](https://img.shields.io/badge/Collaboration-Data%20Presentation-%23e91e63)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Exploration-%233298DA)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Cleaning-%2334a853)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-%235778a4)  
+![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Interactive%20Analysis-%23c35817)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Analysis-%2334a853)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-%235778a4)
 
 ## Collaborators
 
@@ -27,9 +30,9 @@ Meet our team behind the analysis:
 | Name | Role | GitHub | LinkedIn |
 | --- | --- | --- | --- |
 | Annelize Krause | Project Co-ordinator & SQL | [krauseannelize](https://github.com/krauseannelize) | [annelizekrause](https://www.linkedin.com/in/annelizekrause/) |
-| Reha Rabi Binti Mat | Spreadsheets | [reharabi](https://github.com/reharabi) | []() |
+| Reha Rabi Binti Mat | Spreadsheets & Tableau | [reharabi](https://github.com/reharabi) | []() |
 | Atukunda Shakirah | Tableau & Report | []() | []() |
-| Sajjad Mirzapour | Tableau & Report | []() | [sajjad-mirzapour](https://www.linkedin.com/in/sajjad-mirzapour-1b8476295/) |
+| Sajjad Mirzapour | Presentation & Report | []() | [sajjad-mirzapour](https://www.linkedin.com/in/sajjad-mirzapour-1b8476295/) |
 
 [Back to Top](#table-of-contents)
 
