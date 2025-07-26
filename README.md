@@ -10,7 +10,7 @@
 - [About Unicorn Company](#about-unicorn-company)
 - [Unicorn's Database](#unicorns-database)
 - [Data Exploration using SQL](#data-exploration-using-sql)
-- [Data Cleaning using Spreadsheets](#data-cleaning-using-spreadsheets)
+- [Analysis with Spreadsheets](#analysis-with-spreadsheets)
 - [Getting Insights using Tableau](#getting-insights-using-tableau)
 - [Executive summary and presentation](#executive-summary-and-presentation)
 
@@ -45,7 +45,7 @@ Meet our team behind the analysis:
 This group project forms part of the Masterschool Data programme to combine what we have learned on SQL, Spreadsheets, and Tableau. We will exlore the sales performance of Unicorn Company, an e-commerce business offering a wide range of products, for the years 2015 to 2018 to identify performance trends, weaknesses, and growth opportunities. The project consist of 4 main parts:
 
 - Data Exploration using SQL
-- Data Cleaning using Spreadsheets
+- Analysis with Spreadsheets
 - Getting Insights using Tableau
 - Executive summary and presentation
 
@@ -56,7 +56,7 @@ This group project forms part of the Masterschool Data programme to combine what
 These deliverables, submitted to Masterschool as part of our final project using public links, showcase our technical methods, strategic insights, and the collaborative effort behind our work:
 
 - SQL document containing the SQL queries used to answer the questions in the [Data Exploration using SQL](#data-exploration-using-sql) section of the project.
-- The Spreadsheet used to clean and analyze the data to answer the questions in the [Data Cleaning using Spreadsheets](#data-cleaning-using-spreadsheets) section.
+- The Spreadsheet used to analyze the data to answer the questions in the [Analysis with Spreadsheets](#analysis-with-spreadsheets) section.
 - Tableau Public dashboard communicating our insights.
 - One-page PDF report with an executive summary containing our main insights and recommendations.
 - Video recording (up to 5 minutes) of the team sharing their insights and explaining the process followed.
@@ -92,7 +92,7 @@ To kick off the analysis, we use SQL to answer a series of core business questio
 
 [Back to Top](#table-of-contents)
 
-## Data Cleaning using Spreadsheets
+## Analysis with Spreadsheets
 
 In the second part of the project, we will use spreadsheets to answer some questions as part of the deep dive. For this purpose, we are provided with an [extract of the dataset in csv format](/unicorn-dataset.csv).
 
