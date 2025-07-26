@@ -84,10 +84,11 @@ For a more details description of the database, consult the [metadata sheet](/un
 
 ## Data Exploration using SQL
 
-In the first part of the project, we dive deeper into our data research by answering questions utilizing SQL queries.
+To kick off the analysis, we use SQL to answer a series of core business questions about the Unicorn sales database, covering customer trends, city profitability, and product performance.
 
-- [Project Specifications](/specifications-sql.md)
-- [SQL Queries and Results](/unicorn_exploration.ipynb)
+- The [Project Specifications](/specifications-sql.md) detail the required queries.
+- All SQL code and outputs are documented in our [Jupyter Notebook](/unicorn_exploration.ipynb)
+- The [full joined dataset CSV export](/unicorn_extract.csv) from the bonus question is also available for review.
 
 [Back to Top](#table-of-contents)
 
