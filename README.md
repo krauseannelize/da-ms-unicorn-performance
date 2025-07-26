@@ -111,12 +111,10 @@ In this phase, we create interactive dashboards in Tableau to visualize key busi
 
 ## Executive summary and presentation
 
-We receive some guidelines regarding the content of the executive summary and presentation:
+This final section presents a concise overview of our data analysis findings tailored for key stakeholders.
 
-1. Choose the narrative for your presentation. Remember that you are a candidate for a DA position at Unicorn company. You might present the results of your analysis to the company CEO, DA team lead, Platform growth team or a potential Unicorn investor. The nature of the presentation is a bit different for each of those stakeholders. Choose one of the above stakeholders and build your narrative accordingly.
-2. You have a limited time to present your results (up to 5 minutes). You don’t have to dive into technical details too much. Tell the story with your data insights. You can assume some facts that were not mentioned in the project description. Just make sure to clearly state your assumptions.
-3. State clearly your approach to the data. What data cleaning steps were done? Did you find any irregularities in the dataset?
-4. After you present the results of exploratory data analysis and interesting insights, spend some time presenting your recommendations. It depends on what role you choose for the presentation audience, as mentioned above. Recommendations can touch the growth potential of the business in specific geographical areas or products, discount policy, additional data to be collected etc.
-5. Optional: you may want to share what challenges you faced while working with this data and the ways you managed to overcome these challenges.
+- Watch the [Video Presentation](/#).
+- Read the [Executive Summary (PDF)](#) highlighting main insights and recommendations.
+- Review the [Presentation Slide Deck (PDF)](/unicorn-slide-deck.pdf) used during the presentation.
 
 [Back to Top](#table-of-contents)
