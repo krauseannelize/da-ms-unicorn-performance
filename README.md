@@ -86,7 +86,7 @@ For a more details description of the database, consult the [metadata sheet](/un
 
 To kick off the analysis, we use SQL to answer a series of core business questions about the Unicorn sales database, covering customer trends, city profitability, and product performance.
 
-- The [Project Specifications](/specifications-sql.md) detail the required queries.
+- The [SQL Specifications](/specifications-sql.md) detail the required queries.
 - All SQL code and outputs are documented in our [Jupyter Notebook](/unicorn_exploration.ipynb).
 - The [full joined dataset CSV export](/unicorn_extract.csv) from the bonus question is also available for review.
 
@@ -96,19 +96,16 @@ To kick off the analysis, we use SQL to answer a series of core business questio
 
 In this stage, we use spreadsheets to clean and further analyze the Unicorn dataset, addressing data quality issues and performing targeted business analysis.
 
-- Detailed requirements are in the [Project Specifications](/specifications-spreadsheets.md).
+- Detailed requirements are in the [Spreadsheet Specifications](/specifications-spreadsheets.md).
 - All data cleaning steps, analyses, and answers are documented in our [Google Sheets workbook](https://docs.google.com/spreadsheets/d/1m67MvPY3IG0gM0Y3MYFQa8PUrFpDLqbW26qmhYt5CsU/edit?usp=sharing), with a downloadable copy available as [Spreadsheet workbook (.xlsx)](/unicorn-analysis.xlsx).
 
 ## Getting Insights using Tableau
 
-This part of the project is open-ended and the goal is to communicate our insights clearly to Unicorn's executive team by using Tableau. Suggestions for questions to consider for the dashboard are:
+In this phase, we create interactive dashboards in Tableau to visualize key business metrics and uncover actionable insights from the cleaned and explored Unicorn dataset.
 
-1. What is the most profitable city in the State of Tennessee?
-2. What is the average annual profit for that city across all years in that city?
-3. What is the most profitable product category on average in Iowa across all years?
-4. What is the most popular product in that category across all states in 2016?
-5. What was the most profitable month in 2018 overall?
-6. How widely did monthly profits vary in 2018?
+- Suggested metrics to explore and guidelines are in the [Tableau Specifications](/specifications-tableau.md).
+- The published Dashboard can be viewed on [Tableau Public](https://public.tableau.com/views/unicornprojectfinal_17533900132030/Dashboard).
+- The [Tableau workbook (.twbx)](/unicorn-dashboard.twbx) is also included to allow offline exploration.
 
 [Back to Top](#table-of-contents)
 
