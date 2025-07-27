@@ -117,7 +117,7 @@ In this phase, we create interactive dashboards in Tableau to visualize key busi
 This final section presents a concise overview of our data analysis findings tailored for key stakeholders.
 
 - Watch the [Video Presentation](/#).
-- Read the [Executive Summary (PDF)](#) highlighting main insights and recommendations.
+- Read the [Executive Summary (PDF)](/unicorn-executive-summary.pdf) highlighting main insights and recommendations.
 - Review the [Presentation Slide Deck (PDF)](/unicorn-slide-deck.pdf) used during the presentation.
 
 [Back to Top](#table-of-contents)
